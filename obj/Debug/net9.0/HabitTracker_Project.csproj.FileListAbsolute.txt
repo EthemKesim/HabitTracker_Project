@@ -1,0 +1,14 @@
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\HabitTracker_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\HabitTracker_Project.AssemblyInfoInputs.cache
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\HabitTracker_Project.AssemblyInfo.cs
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\HabitTracker_Project.csproj.CoreCompileInputs.cache
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\bin\Debug\net9.0\HabitTracker_Project.exe
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\bin\Debug\net9.0\HabitTracker_Project.deps.json
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\bin\Debug\net9.0\HabitTracker_Project.runtimeconfig.json
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\bin\Debug\net9.0\HabitTracker_Project.dll
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\bin\Debug\net9.0\HabitTracker_Project.pdb
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\HabitTracker_Project.dll
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\refint\HabitTracker_Project.dll
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\HabitTracker_Project.pdb
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\HabitTracker_Project.genruntimeconfig.cache
+C:\Users\keski\OneDrive\Desktop\HabitTracker_Project\obj\Debug\net9.0\ref\HabitTracker_Project.dll

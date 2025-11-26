@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HabitTracker_Project/1.0.0": {
+        "runtime": {
+          "HabitTracker_Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HabitTracker_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
